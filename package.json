@@ -1,0 +1,19 @@
+{
+  "name": "mchacks2018",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^25.0.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "@expo/vector-icons": "6.2.2",
+    "firebase": "4.9.1",
+    "gl-mat4": "1.1.4",
+    "hsv2rgb": "1.1.0",
+    "react-native-elements": "0.19.0",
+    "regl": "1.3.1"
+  }
+}
